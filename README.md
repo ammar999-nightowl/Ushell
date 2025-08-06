@@ -1,2 +1,6 @@
 # Ushell
-Ushell is a terminal based application it is inspired by a Linux terminal emulator named termux
+Ushell is a terminal based application it is inspired by a Linux terminal emulator named termux. it's also highly dependent on Java, XML...
+it's still in development.its open source..
+install shell.zip instead of source_code.zip 
+you can find the whole source in shell.zip...
+best regards 👍
