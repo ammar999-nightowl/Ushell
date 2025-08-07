@@ -9,5 +9,7 @@ and also it's not that much advanced like termux... but it will be advanced soon
 let's see 
 ...
 but first support me because I am a solo dev...
-you can call it termux light often ushell
+you can call it termux light often ushell.
+I will try to keep it updated regularly 🙂.
+but there is no guarantee . lol 😆
 
